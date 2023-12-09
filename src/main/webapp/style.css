@@ -1,0 +1,15 @@
+.bg-custom{
+	background-color: #3AAFA9;
+}
+
+.bg-img{
+	background:url("AllComponents/img/book2.jpg");
+	height:60vh;
+	width:100%;
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position: center ;
+}
+.card-ho:hover{
+	background-color: #fcf7f7;
+}
